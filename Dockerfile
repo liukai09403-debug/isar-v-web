@@ -1,5 +1,5 @@
 # 1. 使用官方轻量级 Python 镜像
-FROM python:3.9-slim
+FROM registry.cn-hangzhou.aliyuncs.com/aliyun-python/python:3.9-slim
 
 # 2. 设置容器内的工作目录
 WORKDIR /app

@@ -1,0 +1,6 @@
+dash
+dash-bootstrap-components
+plotly
+opencv-python-headless
+numpy
+requests
